@@ -96,4 +96,4 @@ MIT License. Free to use and modify.
 
 ## ✨ Author
 
-**Aby Thomas** – [@aby-thomas](https://github.com/aby-thomas)
+**Aby Thomas** – (https://github.com/thomasaby)
